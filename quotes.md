@@ -11,7 +11,7 @@ Liberty
 -------
 Muh freedom
 
-	-"Liberty is about our rights to question everything." - Aj WeiWei
+- "Liberty is about our rights to question everything." - Aj WeiWei
 
 	-"The fact is that the average man’s love of liberty is nine-tenths imaginary, exactly like his love of sense, justice and truth. He is not actually happy when free; he is uncomfortable, a bit alarmed, and intolerably lonely. Liberty is not a thing for the great masses of men." - H.L. Mencken
 
