@@ -45,7 +45,7 @@ The sheeps intellectual battle
 
 - "The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them" - George Orwell
 
-- "Government big enough to supply everything you need is big enough to take everything you have … The course of history shows that as a government grows, liberty decreases." - Thomas Jefferson
+- "Government big enough to supply everything you need is big enough to take everything you have … The course of history shows that as a government grows, liberty decreases." - Gerald Ford
 
 - "I heartily accept the motto, “That government is best which governs least”; and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which also I believe– “That government is best which governs not at all”; and when men are prepared for it, that will be the kind of government which they will have." - Henry David Thoreau
 
