@@ -36,3 +36,8 @@ Browser | surf
 surf[11] is the suckless browser. It is built with webkit2gtk and gtk(3)+. You can find my personal fork[12] on my github.
   - Why surf and not, firefox or chromium? Because they are bloated and centrolised. Everything I want out of a browser surf has, or I have added to it. Who needs built in search bar taking up screen realestate when you can use dmenu[13]? Why have built in tabs when you can just use tabbed[14]? Why watch youtube videos in browser when you can get better quality and no ads by playing it exterally through mpv[15]? Want bookmarks? make a simple script with dmenu and boom. Browsers don't have to be so bloated or so centrolised.
 
+File Manager | lf
+-----------------
+lf[16] stands for list file, and is a very fast, minimalist, scriptable terminal file manager. You can find my lfrc in my dotfiles[17].
+- lf has the great layout of ranger, but isn't coded in python, meaning it has the speed of vifm, but doesn't look like a retarded three legged cat on xanex, and is heavily scriptable and can molded into the perfect file browser for you.
+  - Why a terminal file manager and not a gui file manager? If you think that a gui is needed for something as simple as a file manager, then you should probably go back to ubuntu. Better yet, just go back to windows, we don't need that type of mentality in the linux community. Maybe take a look at this[18] on your way out.
