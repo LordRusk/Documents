@@ -53,8 +53,6 @@ The sheeps intellectual battle
 
 - "Economic control is not merely control of a sector of human life which can be separated from the rest; it is the control of the means for all our ends. And whoever has sole control of the means must also determine which ends are to be served, which values are to be rates higher and which lower, in short, what men should believe and strive for." - F.A. Hayek
 
-- "There is no such thing as society. There are individual men and women." - Margaret Thatcher
-
 - "Extremism in the defense of liberty is no vice… moderation in pursuit of justice is no virtue." - Karl Hess, as Barry Goldwater’s head speechwriter
 
 - "Liberty is the breath of progress." - Robert Ingersoll
@@ -116,3 +114,36 @@ Property or ownership of ideas
 - “For one thing, there are many “inventions” that are not patentable. The “inventor” of the supermarket, for example, conferred great benefits on his fellowmen for which he could not charge them. Insofar as the same kind of ability is required for the one kind of invention as for the other, the existence of patents tends to divert activity to patentable inventions.” — Milton Friedman
 
 - “Oh, dear me, how unspeakably funny and owlishly idiotic and grotesque was that "plagiarism” farce! As if there was much of anything in any human utterance, oral or written, except plagiarism! The kernal, the soul — let us go further and say the substance, the bulk, the actual and valuable material of all human utterances — is plagiarism. For substantially all ideas are second-hand, consciously and unconsciously drawn from a million outside sources, and daily used by the garnerer with a pride and satisfaction born of the superstition that he originated them; whereas there is not a rag of originality about them anywhere except the little discoloration they get from his mental and moral calibre and his temperament, and which is revealed in characteristics of phrasing. When a great orator makes a great speech you are listening to ten centuries and ten thousand men — but we call it his speech, and really some exceedingly smail portion of it is his. But not enough to signify. It is merely a Waterloo. It is Wellington’s battle, in some degree, and we call it his; but there are others that contributed. It takes a thousand men to invent a telegraph, or a steam engine, or a phonograph, or a photograph, or a telephone or any other important thing—and the last man gets the credit and we forget the others. He added his little mite — that is all he did. These object lessons should teach us that ninety-nine parts of all things that proceed from the intellect are plagiarisms, pure and simple; and the lesson ought to make us modest. But nothing can do that.“ – Mark Twain, letter to Helen Keller, after she had been accused of plagiarism for one of her early stories (17 March 1903), published in Mark Twain’s Letters, Vol. 1 (1917) edited by Albert Bigelow Paine, p. 731.
+
+Society
+=======
+"There is no such thing as society. There are individual men and women." - Margaret Thatcher
+
+Religion
+--------
+The mentail plauge that is religion is caused by fear of and a lack of understanding death.
+
+  - "Religion is a mental illness. It makes all kinds of silly claims based not on evidence, but on wishful thinking, it makes the most absurd and arbitrary demands of its followers, and threatens ludicrous punishment if those demands are not followed, and shows utter contempt for rational thinking and a never ending urge to impose itself not only on believers, but also onto nonbelievers. Religion is transparently a racket intended to control, manipulate and exploit people, this should be obvious to anyone capable of the most minute amounts of critical thinking. Despite the tendency of human beings to be credulous and uncritical fools, it still seems that the standards of rigour applied to religion are even lower than those applied to any other aspects of our lives. Just because a delusion is a mass delusion doesn’t make it any less of a mental illness." -  Whoever runs cat-v.org
+  
+  - "The God of the Old Testament was all kick ass and plagues, the New Testament God is all love, forgiveness and shit. Either he got laid or he got some really good weed."- Paraphrased from u/GuaranteedDownVote on reddit
+  
+  - So you think you are real cool and smart because you are ‘agnostic’ and don’t buy into categorical statements regarding the existence or non-existence of God (or Gods). Are you agnostic about Santa Claus too? And about the teapot in orbit around mars? what about the one in orbit around Pluto? Should the existence of divine beings be given special considerations different from those given to any other of the the infinite number of non-falsifiable hypotheses? Any non-falsifiable statement that attempts to define any aspects of the reality we inhabit is meaningless, agnosticism implicitly takes such statements as meaningful. Changing your mind in the face of evidence is wise; pretending that all ideas no matter how silly are equally valid is the epitome post-modernism. Ultimately agnosticism is not a soft form of atheism, it is (at best) a soft form of nihilistic post-modernism.
+  
+  - The dragon in by garage, by Carl Sagan.
+    - “A fire-breathing dragon lives in my garage”
+    - “Show me,” you say. I lead you to my garage. You look inside and see a ladder, empty paint cans, an old tricycle – but no dragon.
+    - "Where’s the dragon?” you ask.
+    - “Oh, she’s right here,” I reply, waving vaguely. “I neglected to mention that she’s an invisible dragon.”
+    - You propose spreading flour on the floor of the garage to capture the dragon’s footprints.
+    - Then you’ll use an infrared sensor to detect the invisible fire.
+    - “Good idea, but the invisible fire is also heatless.”
+    - You’ll spray-paint the dragon and make her visible.
+    - “Good idea, but she’s an incorporeal dragon and the paint won’t stick.” And so on. I counter every physical test you propose with a special explanation of why it won’t work.
+
+Children
+--------
+“The State must declare the child to be the most precious treasure of the people. As long as the government is perceived as working for the benefit of the children, the people will happily endure almost any curtailment of liberty and almost any deprivation.” — Adolf Hitler, “Mein Kampf”
+
+  - "Children are nothing more than a toy some parents use to feed their ego and feel important. They are a nuisance and make life miserable for everyone else around.""‘Having children’(the words say it all) is the most egoistical and egotistical thing a human being can do. And to then come and try to whine about how unfair it is for some parents is the pinnacle of hypocrisy.I don’t care if the men or the women do the childrearing, that is up to them to sort out, both of them made a decision to have a child and they should have know what the were getting into.In the end it is not about ‘men’ or ‘women’ should do this or that, it is about parents should be fucking responsible for their children. Period.I am a man, and I wont take the bullshit from either men or women that whine about how hard is to raise kids. I don’t want kids, and if you got kids, it is your problem and you should deal with it." - Whoever runs cat-v.org
+  
+  - “as we all know it appears that an essential definition of parenthood is hypocrisy” - Ethan Nadelmann
