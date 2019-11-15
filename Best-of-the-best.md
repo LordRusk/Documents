@@ -1,6 +1,6 @@
-Here are some programs I use on a daily basis:
-==============================================
-Muh window manager, terminal, file manager, image viewer, text editor... everything.
+Best of the best (in my humble opinion).
+========================================
+Muh window manager, terminal, file manager, image viewer, text editor... everything I use, and since I use it, it must be the best.
 
 Window manager | dwm
 --------------------
@@ -41,3 +41,9 @@ File Manager | lf
 lf[16] stands for list file, and is a very fast, minimalist, scriptable terminal file manager. You can find my lfrc in my dotfiles[17].
 - lf has the great layout of ranger, but isn't coded in python, meaning it has the speed of vifm, but doesn't look like a retarded three legged cat on xanex, and is heavily scriptable and can molded into the perfect file browser for you.
   - Why a terminal file manager and not a gui file manager? If you think that a gui is needed for something as simple as a file manager, then you should probably go back to ubuntu. Better yet, just go back to windows, we don't need that type of mentality in the linux community. Maybe take a look at this[18] on your way out.
+
+Image Viewer | sxiv
+-------------------
+sxiv[19], the suckless(simple) X image viewer, is a ***simple*** image viewer, fast, small, and powerful. This is an exellent exaple of minimalism done right.
+  - Why not feh? Because feh is bigger and less powerful while overstepping it's use as an image viewer. It can do more things then what a simple image viewer should do. For instance, it can set the wallpaper...WHY? feh supports a fraction of the file types supported by sxiv, a notable one if farbfeld(.ff). Sxiv can do a lot more manipulation to how you view images, feh cannot emulate what sxiv can do. **Setting the wallpaper does not make feh powerful, it makes it bloted**
+  
