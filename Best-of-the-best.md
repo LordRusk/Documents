@@ -39,7 +39,7 @@ surf[11] is the suckless browser. It is built with webkit2gtk and gtk(3)+. You c
 File Manager | lf
 -----------------
 lf[16] stands for list file, and is a very fast, minimalist, and scriptable terminal file manager. You can find my lfrc in my dotfiles[17].
-- lf has the great layout of ranger, but isn't coded in python, meaning it has the speed of vifm, but doesn't look like a retarded three legged cat on xanex like vifm does, and is heavily scriptable and can molded into the perfect file browser for you.
+  - lf has the great layout of ranger, but isn't coded in python, meaning it has the speed of vifm, but doesn't look like a retarded three legged cat on xanex like vifm does, and is heavily scriptable and can molded into the perfect file browser for you.
   - Why a terminal file manager and not a gui file manager? If you think that a gui is needed for something as simple as a file manager, then you should probably go back to ubuntu. Better yet, just go back to windows, we don't need that type of mentality in the linux community. Maybe take a look at this[18] on your way out.
 
 Image Viewer | sxiv
