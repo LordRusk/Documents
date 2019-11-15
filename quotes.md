@@ -93,13 +93,11 @@ Economics is the painful elaboration of the obvious.
 
 - "A major source of objection to a free economy is precisely that it … gives people what they want instead of what a particular group thinks they ought to want. Underlying most arguments against the free market is a lack of belief in freedom itself." - Miltion Friedman
 
-- "The most important single central fact about a free market is that no exchange takes place unless both parties benefit." - Miltion Friedman
+- "The most important single central fact about a free market is that no exchange takes place unless both parties benefit." "If an exchange between two parties is voluntary, it will not take place unless both believe they will benefit from it. Most economic fallacies derive from the neglect of this simple insight, from the tendency to assume that there is a fixed pie, that one party can only gain at the expense of another. - Milton Friedman
 
 - The only thing worse than being exploited by capitalism is not being exploited by capitalism." - Joan Violet Robinson
 
 - "Manufacturing and commercial monopolies owe their origin not to a tendency imminent in a capitalist economy but to governmental interventionist policy directed against free trade and laissez faire." - Ludwig Mises
-
-- "If an exchange between two parties is voluntary, it will not take place unless both believe they will benefit from it. Most economic fallacies derive from the neglect of this simple insight, from the tendency to assume that there is a fixed pie, that one party can only gain at the expense of another. - Milton Friedman"
 
 - "States with central-planning regimes […] do tend to consume much less energy (and much less of everything else) […] than do Americans. There is a word for that: poverty." - The Politically Incorrect Guide to Socialism
 
