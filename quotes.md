@@ -135,6 +135,7 @@ The mentail plauge that is religion is caused by fear of and a lack of understan
     - "Where’s the dragon?” you ask.
     - “Oh, she’s right here,” I reply, waving vaguely. “I neglected to mention that she’s an invisible dragon.”
     - You propose spreading flour on the floor of the garage to capture the dragon’s footprints.
+    - “Good idea,” I say, “but this dragon floats in the air.”
     - Then you’ll use an infrared sensor to detect the invisible fire.
     - “Good idea, but the invisible fire is also heatless.”
     - You’ll spray-paint the dragon and make her visible.
