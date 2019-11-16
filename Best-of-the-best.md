@@ -47,3 +47,8 @@ Image Viewer | sxiv
 sxiv[19], the suckless(simple) X image viewer, is a ***simple*** image viewer, fast, small, and powerful. This is an exellent exaple of minimalism done right.
   - Why not feh? Because feh is bigger and less powerful while overstepping it's use as an image viewer. It can do more things then what a simple image viewer should do. For instance, it can set the wallpaper...WHY? feh supports a fraction of the file types supported by sxiv, a notable one if farbfeld(.ff). Sxiv can do a lot more manipulation to how you view images, feh cannot emulate what sxiv can do. **Setting the wallpaper does not make feh powerful, it makes it bloted**
   
+Text Editor | vim
+----------------------
+vim[20] Is the best text editor, vim keys, shortcuts, plugins, looks, all that stuff.
+  - Why not emacs? Because i've never tried it, don't plan to, idk why stop asking.
+  - Why not a gui text editor? Please...please please just go back to ubuntu, or better yet windows. Ill say it again, we do not need that mentality of needed bloat in the linux community.
