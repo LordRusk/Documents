@@ -91,6 +91,8 @@ Economics is the painful elaboration of the obvious.
 
 - "A major source of objection to a free economy is precisely that it … gives people what they want instead of what a particular group thinks they ought to want. Underlying most arguments against the free market is a lack of belief in freedom itself." - Miltion Friedman
 
+- "When buying and selling are controlled by legislation, the first things to be bought and sold are legislators." P.J. O´Rourke
+
 - "The most important single central fact about a free market is that no exchange takes place unless both parties benefit." "If an exchange between two parties is voluntary, it will not take place unless both believe they will benefit from it. Most economic fallacies derive from the neglect of this simple insight, from the tendency to assume that there is a fixed pie, that one party can only gain at the expense of another. - Milton Friedman
 
 - The only thing worse than being exploited by capitalism is not being exploited by capitalism." - Joan Violet Robinson
