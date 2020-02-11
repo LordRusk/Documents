@@ -119,7 +119,7 @@ Property or ownership of ideas
 
 Society
 =======
-"There is no such thing as society. There are individual men and women." - Margaret Thatcher
+There is no such thing as society. There are only indivduals.
 
 Religion
 --------
