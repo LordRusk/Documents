@@ -3,13 +3,15 @@ Quotes
 Lot's of good quotes
 
 
-Anarchism \\ Freedom
+Freedom
 ====================
 Some right wing libertarian quotes about anarchism and freedom.
 
 Liberty
 -------
 Muh freedom
+
+- "I would like to do one better, I dont want to just use money to make money, I want to use money to make money, but more importantly, reduce my dependence on money!" - Luke Smith
 
 - "Liberty is about our rights to question everything." - Aj WeiWei
 
