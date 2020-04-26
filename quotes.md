@@ -152,3 +152,11 @@ Children
   - "Children are nothing more than a toy some parents use to feed their ego and feel important. They are a nuisance and make life miserable for everyone else around.""‘Having children’(the words say it all) is the most egoistical and egotistical thing a human being can do. And to then come and try to whine about how unfair it is for some parents is the pinnacle of hypocrisy.I don’t care if the men or the women do the childrearing, that is up to them to sort out, both of them made a decision to have a child and they should have know what the were getting into.In the end it is not about ‘men’ or ‘women’ should do this or that, it is about parents should be fucking responsible for their children. Period.I am a man, and I wont take the bullshit from either men or women that whine about how hard is to raise kids. I don’t want kids, and if you got kids, it is your problem and you should deal with it." - Whoever runs cat-v.org
   
   - “as we all know it appears that an essential definition of parenthood is hypocrisy” - Ethan Nadelmann
+
+Misc
+====
+Other issues that don't fit into any of the other catagories.
+
+Global Warming
+--------------
+  - "Anyone that questions that there is global warming is seriously delusional. But anyone who gets their scientific information from a ‘documentary’ by a politician is just as delusional." -Uriel
