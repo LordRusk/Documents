@@ -1,0 +1,105 @@
+% xelatex
+\documentclass{article}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{graphicx}
+
+\titleformat{\section}
+{\huge\bfseries}
+{}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}
+{\Large}
+{}
+{0em}
+{}
+
+\renewcommand{\maketitle}{
+\begin{center}
+	\Huge
+	\bfseries
+	\theauthor
+\end{center}
+}
+
+\title{my tech philosophy}
+\author{LordRusk}
+
+\begin{document}
+
+
+\maketitle
+
+\section{philosophy}
+Efficency, in the bounds of elegence, the essence of which is simplicity. This should be applied to all code, programs, and pipelines at all levels.
+
+\section{today's software}
+With today's software standards, or lack there of, especially when it comes to the web, mainstream computing (windows), mainstream linux (ubuntu, gnu), etc, will make it extrememly difficult to abide by this philosophy and the standards it implies. Even merely using software to these standards makes it extremely difficult to interact and interface with very large mainstream software, especailly things like discord, where the creators and unjust intellectual property laws keep you from being able to manipulate the software on your computer as you please.
+
+\section{Software}
+Here I will list software that is considered harmful, less so, and benefitial, to give you an idea of what this philosophy entails.
+
+\subsection{harmful}
+\begin{itemize}
+	\item Windows,
+	\item MacOS *,
+	\item Debian, and it's evil offspring (ubuntu especially),
+	\item redhat, and it's evil ancestors and offspring,
+	\item Arch, and most of it's nast offspring,
+	\item Everything made by adobe,
+	\item SystemD,
+	\item OpenRC,
+	\item Grub(2)
+	\item Xorg
+	\item GLibC
+	\item C(\#|++)
+	\item java
+	\item python
+	\item rust, etc, etc,
+	\item Fish, Bash,
+	\item All of gnu.
+\end{itemize}
+
+\subsection{less so}
+\begin{itemize}
+	\item Slackware,
+	\item void, (uses gnu coreutils)
+	\item Artix, (uses gnu coreutils)
+	\item Alpine,
+	\item Musl
+	\item wayland,
+	\item runit (uses symlinks)
+	\item s6 (Is a very simple init system, but cannot cope with the fact some people symlink sh to dash [using harmful software to achieve a higher standard of efficency] and they cannot just run their core bash scripts as sh, yes I know sh is usually synlinked to bash you cunt)
+	\item zsh (It has a place in my heart)
+	\item buzybox
+\end{itemize}
+
+\subsection{Benefitial}
+\begin{itemize}
+	\item plan9(legacy|front[the plan fell off])
+	\item LTS (can be made as beneficial as possible)
+	\item rio,
+	\item sinit/init
+	\item C,
+	\item Go,
+	\item ash/dash,
+	\item rc,
+	\item plan9port/9port,
+\end{itemize}
+
+\section{final}
+If you think I'm wrong about something or you think something should be moved, \href{lordruskk@gmail.com}{fuck off.}
+
+
+\begin{center}
+	\includegraphics[width=5in,height=8in]{urielwasright.png}
+\end{center}
+
+
+
+\end{document}
